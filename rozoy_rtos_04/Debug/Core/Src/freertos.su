@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:52:6:app_init	16	static
+../Core/Src/freertos.c:80:13:task1	16	static
+../Core/Src/freertos.c:95:13:task2	40	static
+../Core/Src/freertos.c:124:13:task3	16	static
